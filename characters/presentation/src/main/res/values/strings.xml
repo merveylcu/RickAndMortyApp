@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="retry">Retry</string>
+    <string name="all_cards_swiped">All cards swiped</string>
+
+</resources>
